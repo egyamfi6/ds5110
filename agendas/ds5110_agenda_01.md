@@ -62,8 +62,5 @@ You can use this space to organize files for your project:
 **COMPUTE SETUP**  
 You will use the Jupyter kernel called `PySpark 4.0.0`. 
 
-To use this, you'll need to run the following command from a terminal:
+Each PySpark notebook should already have this kernel set at the top right, but if not, please select it.
 
-`/standard/ds7200-apt4c/setup.sh`
-
-If you run this in a JupyterLab terminal, you will need to refresh the browser tab. Otherwise, the next time you open JupyterLab, the kernel will be available. 
